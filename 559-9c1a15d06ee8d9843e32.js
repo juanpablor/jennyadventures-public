@@ -1,3 +1,0 @@
-/*! For license information please see 559-9c1a15d06ee8d9843e32.js.LICENSE.txt */
-"use strict";(self.webpackChunktemplate=self.webpackChunktemplate||[]).push([[559],{1559:function(e,a,n){n.d(a,{db:function(){return p}});var t=n(1990);(0,t.KO)("firebase","11.10.0","app");var r=n(2405);const s=(0,t.Dk)().length>0?(0,t.Sx)():(0,t.Wp)({apiKey:"AIzaSyAlrSnCURi7ZRtXqz3rbWDBGECsGYJ3X9I",authDomain:"jenny-adventures.firebaseapp.com",projectId:"jenny-adventures",storageBucket:"jenny-adventures.firebasestorage.app",messagingSenderId:"902338870553",appId:"1:902338870553:web:c68a474f9e70bcff99d988"}),p=(0,r.aU)(s)}}]);
-//# sourceMappingURL=559-9c1a15d06ee8d9843e32.js.map
