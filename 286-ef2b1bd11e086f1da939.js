@@ -1,0 +1,3 @@
+/*! For license information please see 286-ef2b1bd11e086f1da939.js.LICENSE.txt */
+"use strict";(self.webpackChunktemplate=self.webpackChunktemplate||[]).push([[286,905],{5286:function(e,a,n){n.d(a,{auth:function(){return c},db:function(){return u}});var t=n(1990);(0,t.KO)("firebase","11.10.0","app");var r=n(6859),s=n(2405);const p=(0,t.Dk)().length>0?(0,t.Sx)():(0,t.Wp)({apiKey:"AIzaSyAlrSnCURi7ZRtXqz3rbWDBGECsGYJ3X9I",authDomain:"jenny-adventures.firebaseapp.com",projectId:"jenny-adventures",storageBucket:"jenny-adventures.firebasestorage.app",messagingSenderId:"902338870553",appId:"1:902338870553:web:c68a474f9e70bcff99d988"}),u=(0,s.aU)(p),c=(0,r.xI)(p)}}]);
+//# sourceMappingURL=286-ef2b1bd11e086f1da939.js.map
