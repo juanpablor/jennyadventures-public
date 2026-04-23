@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktemplate=self.webpackChunktemplate||[]).push([[533],{1647:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});var r=n(6540),u=n(2705),l=n(1234);function a(){return r.createElement(u.U,{title:"New itinerary"},r.createElement(l.G,null))}}}]);
+//# sourceMappingURL=component---src-pages-admin-itineraries-new-tsx-163b0c0688287d48d89c.js.map
