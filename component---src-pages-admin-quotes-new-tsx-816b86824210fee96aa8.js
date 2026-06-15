@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktemplate=self.webpackChunktemplate||[]).push([[7087],{4715:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});var u=n(6540),l=n(2705),r=n(8721);function a(){return u.createElement(l.U,{title:"New quote"},u.createElement(r.J,null))}}}]);
+//# sourceMappingURL=component---src-pages-admin-quotes-new-tsx-816b86824210fee96aa8.js.map

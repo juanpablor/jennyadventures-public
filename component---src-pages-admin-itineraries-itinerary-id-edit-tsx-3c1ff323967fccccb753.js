@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunktemplate=self.webpackChunktemplate||[]).push([[111],{688:function(e,t,r){r.r(t),r.d(t,{default:function(){return u}});var n=r(6540),a=r(2705),i=r(1234);function u(e){let{params:t}=e;return n.createElement(a.U,{title:"Edit itinerary"},n.createElement(i.G,{itineraryId:t.itineraryId}))}}}]);
-//# sourceMappingURL=component---src-pages-admin-itineraries-itinerary-id-edit-tsx-3c1ff323967fccccb753.js.map
